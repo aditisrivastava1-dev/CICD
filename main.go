@@ -7,5 +7,5 @@ func Add(a, b int) int {
 }
 
 func main() {
-	fmt.Println("CI/CD Demo: 1 + 2 =", Add(1, 2))
+	fmt.Println("CI/CD Demo_check: 1 + 2 =", Add(1, 2))
 }
